@@ -1,0 +1,21 @@
+# Archivos temporales de Office
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Archivos de respaldo
+*.bak
+*.tmp
